@@ -1,0 +1,17 @@
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/bin/Debug/net6.0/EmitLogDirect
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/bin/Debug/net6.0/EmitLogDirect.deps.json
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/bin/Debug/net6.0/EmitLogDirect.runtimeconfig.json
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/bin/Debug/net6.0/EmitLogDirect.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/bin/Debug/net6.0/ref/EmitLogDirect.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/bin/Debug/net6.0/EmitLogDirect.pdb
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/obj/Debug/net6.0/EmitLogDirect.csproj.AssemblyReference.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/obj/Debug/net6.0/EmitLogDirect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/obj/Debug/net6.0/EmitLogDirect.AssemblyInfoInputs.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/obj/Debug/net6.0/EmitLogDirect.AssemblyInfo.cs
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/obj/Debug/net6.0/EmitLogDirect.csproj.CoreCompileInputs.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/obj/Debug/net6.0/EmitLogDirect.csproj.CopyComplete
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/obj/Debug/net6.0/EmitLogDirect.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/obj/Debug/net6.0/ref/EmitLogDirect.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/obj/Debug/net6.0/EmitLogDirect.pdb
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/obj/Debug/net6.0/EmitLogDirect.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1sJtMVJDRDPaKx2KNMqyp/Mdaw2cn+FUh0KQlzb3nJ7gI3oyfC8wW4kbzd8j/RXxw7WnrEvI8nlIhv9OXTY3cA==",
+  "success": true,
+  "projectFilePath": "/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/EmitLogDirect/EmitLogDirect.csproj",
+  "expectedPackageFiles": [
+    "/Users/stanrutten/.nuget/packages/rabbitmq.client/6.2.4/rabbitmq.client.6.2.4.nupkg.sha512",
+    "/Users/stanrutten/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/stanrutten/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

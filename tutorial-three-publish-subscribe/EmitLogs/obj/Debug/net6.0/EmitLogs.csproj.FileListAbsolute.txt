@@ -1,0 +1,17 @@
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/bin/Debug/net6.0/EmitLogs
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/bin/Debug/net6.0/EmitLogs.deps.json
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/bin/Debug/net6.0/EmitLogs.runtimeconfig.json
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/bin/Debug/net6.0/EmitLogs.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/bin/Debug/net6.0/ref/EmitLogs.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/bin/Debug/net6.0/EmitLogs.pdb
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/obj/Debug/net6.0/EmitLogs.csproj.AssemblyReference.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/obj/Debug/net6.0/EmitLogs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/obj/Debug/net6.0/EmitLogs.AssemblyInfoInputs.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/obj/Debug/net6.0/EmitLogs.AssemblyInfo.cs
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/obj/Debug/net6.0/EmitLogs.csproj.CoreCompileInputs.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/obj/Debug/net6.0/EmitLogs.csproj.CopyComplete
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/obj/Debug/net6.0/EmitLogs.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/obj/Debug/net6.0/ref/EmitLogs.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/obj/Debug/net6.0/EmitLogs.pdb
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/EmitLogs/obj/Debug/net6.0/EmitLogs.genruntimeconfig.cache

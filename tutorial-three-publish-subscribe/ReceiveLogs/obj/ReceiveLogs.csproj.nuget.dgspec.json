@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/ReceiveLogs/ReceiveLogs.csproj": {}
+  },
+  "projects": {
+    "/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/ReceiveLogs/ReceiveLogs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/ReceiveLogs/ReceiveLogs.csproj",
+        "projectName": "ReceiveLogs",
+        "projectPath": "/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/ReceiveLogs/ReceiveLogs.csproj",
+        "packagesPath": "/Users/stanrutten/.nuget/packages/",
+        "outputPath": "/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-three-publish-subscribe/ReceiveLogs/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/stanrutten/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/6.0.100/libexec/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

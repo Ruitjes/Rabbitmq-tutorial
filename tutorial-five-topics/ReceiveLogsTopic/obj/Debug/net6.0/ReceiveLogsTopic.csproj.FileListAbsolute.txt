@@ -1,0 +1,17 @@
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/bin/Debug/net6.0/ReceiveLogsTopic
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/bin/Debug/net6.0/ReceiveLogsTopic.deps.json
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/bin/Debug/net6.0/ReceiveLogsTopic.runtimeconfig.json
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/bin/Debug/net6.0/ReceiveLogsTopic.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/bin/Debug/net6.0/ref/ReceiveLogsTopic.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/bin/Debug/net6.0/ReceiveLogsTopic.pdb
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.csproj.AssemblyReference.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.AssemblyInfoInputs.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.AssemblyInfo.cs
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.csproj.CoreCompileInputs.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.csproj.CopyComplete
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/obj/Debug/net6.0/ref/ReceiveLogsTopic.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.pdb
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-five-topics/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.genruntimeconfig.cache

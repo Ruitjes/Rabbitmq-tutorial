@@ -1,0 +1,17 @@
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/bin/Debug/net6.0/Send
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/bin/Debug/net6.0/Send.deps.json
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/bin/Debug/net6.0/Send.runtimeconfig.json
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/bin/Debug/net6.0/Send.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/bin/Debug/net6.0/ref/Send.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/bin/Debug/net6.0/Send.pdb
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/obj/Debug/net6.0/Send.csproj.AssemblyReference.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/obj/Debug/net6.0/Send.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/obj/Debug/net6.0/Send.AssemblyInfoInputs.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/obj/Debug/net6.0/Send.AssemblyInfo.cs
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/obj/Debug/net6.0/Send.csproj.CoreCompileInputs.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/obj/Debug/net6.0/Send.csproj.CopyComplete
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/obj/Debug/net6.0/Send.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/obj/Debug/net6.0/ref/Send.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/obj/Debug/net6.0/Send.pdb
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Send/obj/Debug/net6.0/Send.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/bin/Debug/net6.0/Receive
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/bin/Debug/net6.0/Receive.deps.json
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/bin/Debug/net6.0/Receive.runtimeconfig.json
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/bin/Debug/net6.0/Receive.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/bin/Debug/net6.0/ref/Receive.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/bin/Debug/net6.0/Receive.pdb
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/obj/Debug/net6.0/Receive.csproj.AssemblyReference.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/obj/Debug/net6.0/Receive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/obj/Debug/net6.0/Receive.AssemblyInfoInputs.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/obj/Debug/net6.0/Receive.AssemblyInfo.cs
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/obj/Debug/net6.0/Receive.csproj.CoreCompileInputs.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/obj/Debug/net6.0/Receive.csproj.CopyComplete
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/obj/Debug/net6.0/Receive.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/obj/Debug/net6.0/ref/Receive.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/obj/Debug/net6.0/Receive.pdb
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-one-helloworld/Receive/obj/Debug/net6.0/Receive.genruntimeconfig.cache

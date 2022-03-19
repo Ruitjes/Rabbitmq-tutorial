@@ -1,0 +1,17 @@
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/bin/Debug/net6.0/Worker
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/bin/Debug/net6.0/Worker.deps.json
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/bin/Debug/net6.0/Worker.runtimeconfig.json
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/bin/Debug/net6.0/Worker.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/bin/Debug/net6.0/ref/Worker.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/bin/Debug/net6.0/Worker.pdb
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/obj/Debug/net6.0/Worker.csproj.AssemblyReference.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/obj/Debug/net6.0/Worker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/obj/Debug/net6.0/Worker.AssemblyInfoInputs.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/obj/Debug/net6.0/Worker.AssemblyInfo.cs
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/obj/Debug/net6.0/Worker.csproj.CoreCompileInputs.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/obj/Debug/net6.0/Worker.csproj.CopyComplete
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/obj/Debug/net6.0/Worker.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/obj/Debug/net6.0/ref/Worker.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/obj/Debug/net6.0/Worker.pdb
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-two-work-queues/Worker/obj/Debug/net6.0/Worker.genruntimeconfig.cache

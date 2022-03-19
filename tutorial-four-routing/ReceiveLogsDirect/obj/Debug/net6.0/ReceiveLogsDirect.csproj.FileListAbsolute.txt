@@ -1,0 +1,17 @@
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.csproj.AssemblyReference.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.AssemblyInfoInputs.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.AssemblyInfo.cs
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.csproj.CoreCompileInputs.cache
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/bin/Debug/net6.0/ReceiveLogsDirect
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/bin/Debug/net6.0/ReceiveLogsDirect.deps.json
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/bin/Debug/net6.0/ReceiveLogsDirect.runtimeconfig.json
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/bin/Debug/net6.0/ReceiveLogsDirect.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/bin/Debug/net6.0/ref/ReceiveLogsDirect.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/bin/Debug/net6.0/ReceiveLogsDirect.pdb
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.csproj.CopyComplete
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/obj/Debug/net6.0/ref/ReceiveLogsDirect.dll
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.pdb
+/Users/stanrutten/Repositorys/rabbitmq-tutorials/tutorial-four-routing/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.genruntimeconfig.cache
